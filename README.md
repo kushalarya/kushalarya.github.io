@@ -1,8 +1,6 @@
-<p align="center">
- <img src="https://raw.githubusercontent.com/pkosiec/website/main/static/img/logo.png" width="75">
-</p>
 
-# Paweł Kosiec - Personal Website
+
+# Kushal Arya - Personal Website
 
 This repository contains source code of the Kushal Arya's personal website. To see it live, navigate to the [kushalarya.com](https://kushalarya.com) address.
 
