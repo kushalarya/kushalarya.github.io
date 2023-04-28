@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkosiec_dev=self.webpackChunkkosiec_dev||[]).push([[743],{7456:e=>{e.exports=JSON.parse('{"label":"introduction","permalink":"/blog/tags/introduction","allTagsPath":"/blog/tags","count":1}')}}]);

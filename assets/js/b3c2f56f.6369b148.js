@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkosiec_dev=self.webpackChunkkosiec_dev||[]).push([[468],{8142:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/world","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
