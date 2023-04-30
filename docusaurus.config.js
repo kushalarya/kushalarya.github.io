@@ -60,7 +60,8 @@ const config = {
         docs: false,
         blog: {
           showReadingTime: true,
-          editUrl: "https://github.com/pkosiec/website/tree/main/",
+          editUrl:
+            "https://github.com/kushalarya/kushalarya.github.io/tree/main/",
           feedOptions: {
             type: "all",
             copyright: `Copyright © ${new Date().getFullYear()} Kushal Arya`,
@@ -68,6 +69,10 @@ const config = {
         },
         theme: {
           customCss: [require.resolve("./src/css/custom.scss")],
+        },
+        gtag: {
+          trackingID: "G-HW9NWCXPZD",
+          anonymizeIP: false,
         },
       }),
     ],
