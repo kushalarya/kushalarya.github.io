@@ -112,7 +112,6 @@ const config = {
         items: [
           { to: "/blog", label: "Blog", position: "left" },
           { to: "/projects", label: "Projects", position: "left" },
-          // { to: "/talks", label: "Talks", position: "left" },
         ],
       },
       footer: {
@@ -145,10 +144,6 @@ const config = {
               {
                 label: "Projects",
                 to: "/projects",
-              },
-              {
-                label: "Talks",
-                to: "/talks",
               },
             ],
           },
