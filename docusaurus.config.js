@@ -91,7 +91,7 @@ const config = {
         {
           name: "keywords",
           content:
-            "fullstack,frontend,backend,developer,engineer,go,golang,javascript,graphql,grpc,rest,kubernetes,devops,cloud,cloud-native,open-source,java,springboot,spring,angular",
+            "fullstack, frontend, backend, developer, engineer, go, golang, javascript, graphql, grpc, rest, kubernetes, devops, cloud, cloud-native, open-source, java, springboot, spring, angular, kushal, kushalarya, arya ",
         },
         {
           name: "twitter:card",
@@ -115,56 +115,36 @@ const config = {
         ],
       },
       footer: {
-        style: "light",
-        links: [
-          {
-            title: "Connect",
-            items: [
-              {
-                label: "Email me",
-                href: "mailto:kushalarya999@gmail.com",
-              },
-              {
-                label: "LinkedIn",
-                href: "https://www.linkedin.com/in/kushalarya",
-              },
-              {
-                label: "Twitter",
-                href: "https://twitter.com/_kushalarya",
-              },
-            ],
-          },
-          {
-            title: "Discover",
-            items: [
-              {
-                label: "About me",
-                to: "/",
-              },
-              {
-                label: "Projects",
-                to: "/projects",
-              },
-            ],
-          },
-          {
-            title: "Blog feed",
-            items: [
-              {
-                label: "RSS",
-                to: "/blog/rss.xml",
-              },
-              {
-                label: "Atom",
-                to: "/blog/atom.xml",
-              },
-              {
-                label: "JSON",
-                to: "/blog/feed.json",
-              },
-            ],
-          },
-        ],
+        style: "dark",
+        // links: [
+        //   {
+        //     title: "Connect",
+        //     items: [
+        //       {
+        //         label: "Email me",
+        //         href: "mailto:kushalarya999@gmail.com",
+        //       },
+        //     ],
+        //   },
+        //   {
+        //     title: "Discover",
+        //     items: [
+        //       {
+        //         label: "About me",
+        //         to: "/",
+        //       },
+        //       {
+        //         label: "Projects",
+        //         to: "/projects",
+        //       },
+        //       {
+        //         label: "Blog",
+        //         to: "/blog",
+        //       },
+
+        //     ],
+        //   },
+        // ],
         copyright: `Copyright © ${new Date().getFullYear()} Kushal Arya.`,
       },
       algolia: {
