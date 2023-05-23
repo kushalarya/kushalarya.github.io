@@ -1,0 +1,25 @@
+---
+description: Landing page for Photography
+sidebar_label: Home
+sidebar_position: 1
+---
+
+# Photography
+
+Photographs play an important role in everyone's lives because they allow us to keep in touch with the past and bring back fond memories of special times, people, and places.
+
+## Photography is an Art
+
+Hobbies are important for mental health and happiness. Fantastic pastimes.
+
+One of the many benefits of photography is that it provides a platform for personal artistic expression
+
+## My Gear
+
+I currently own Sony ZV-E10. It's a versatile APSC camera for Photography & Videos. Small body of this camera allows me to carry it everywhere.
+
+All my photographs are with Sony's kit 18-50mm lens. I'm planing to upgrade the lens, but first I want to gain confidence over creating great compositions.
+
+## Reads
+
+1. [Composition & Photography: Working with Photography Using Design Concepts](https://www.goodreads.com/book/show/60071328-composition-photography) **[Currently Reading]**

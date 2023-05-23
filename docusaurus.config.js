@@ -55,9 +55,10 @@ const config = {
   presets: [
     [
       "classic",
-      /** @type {import('@docusaurus/preset-classic').Options} */
-      ({
-        docs: false,
+      {
+        docs: {
+          routeBasePath: "/docs",
+        },
         blog: {
           showReadingTime: true,
           editUrl:
@@ -74,7 +75,7 @@ const config = {
           trackingID: "G-HW9NWCXPZD",
           anonymizeIP: false,
         },
-      }),
+      },
     ],
   ],
 
@@ -112,6 +113,7 @@ const config = {
         items: [
           { to: "/blog", label: "Blog", position: "left" },
           { to: "/projects", label: "Projects", position: "left" },
+          { to: "/docs/", label: "Notebook", position: "left" },
         ],
       },
       footer: {
