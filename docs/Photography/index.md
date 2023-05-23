@@ -1,7 +1,7 @@
 ---
 description: Landing page for Photography
-sidebar_label: Home
-sidebar_position: 1
+sidebar_label: Photography
+sidebar_position: 2
 ---
 
 # Photography
@@ -16,9 +16,9 @@ One of the many benefits of photography is that it provides a platform for perso
 
 ## My Gear
 
-I currently own Sony ZV-E10. It's a versatile APSC camera for Photography & Videos. Small body of this camera allows me to carry it everywhere.
+I currently own Sony ZV-E10. It's a versatile APSC camera for Photography & Videos. The small body of this camera allows me to carry it everywhere.
 
-All my photographs are with Sony's kit 18-50mm lens. I'm planing to upgrade the lens, but first I want to gain confidence over creating great compositions.
+All my photographs are with Sony's kit 18-50mm lens. I'm planning to upgrade the lens, but first I want to gain confidence in creating great compositions.
 
 ## Reads
 

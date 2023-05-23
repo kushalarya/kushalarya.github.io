@@ -57,7 +57,7 @@ const config = {
       "classic",
       {
         docs: {
-          routeBasePath: "/docs",
+          routeBasePath: "/notebook",
         },
         blog: {
           showReadingTime: true,
@@ -113,40 +113,11 @@ const config = {
         items: [
           { to: "/blog", label: "Blog", position: "left" },
           { to: "/projects", label: "Projects", position: "left" },
-          { to: "/docs/", label: "Notebook", position: "left" },
+          { to: "/notebook", label: "Notebook", position: "left" },
         ],
       },
       footer: {
         style: "dark",
-        // links: [
-        //   {
-        //     title: "Connect",
-        //     items: [
-        //       {
-        //         label: "Email me",
-        //         href: "mailto:kushalarya999@gmail.com",
-        //       },
-        //     ],
-        //   },
-        //   {
-        //     title: "Discover",
-        //     items: [
-        //       {
-        //         label: "About me",
-        //         to: "/",
-        //       },
-        //       {
-        //         label: "Projects",
-        //         to: "/projects",
-        //       },
-        //       {
-        //         label: "Blog",
-        //         to: "/blog",
-        //       },
-
-        //     ],
-        //   },
-        // ],
         copyright: `Copyright © ${new Date().getFullYear()} Kushal Arya.`,
       },
       algolia: {
