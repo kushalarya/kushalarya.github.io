@@ -8,11 +8,9 @@ sidebar_position: 2
 
 Photographs play an important role in everyone's lives because they allow us to keep in touch with the past and bring back fond memories of special times, people, and places.
 
-## Photography is an Art
+> Photography is an Art
 
 Hobbies are important for mental health and happiness. Fantastic pastimes.
-
-One of the many benefits of photography is that it provides a platform for personal artistic expression
 
 ## My Gear
 

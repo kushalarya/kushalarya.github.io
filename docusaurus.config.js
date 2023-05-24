@@ -123,9 +123,9 @@ const config = {
         copyright: `Copyright © ${new Date().getFullYear()} Kushal Arya.`,
       },
       algolia: {
-        appId: "QAJPHG1NC0",
-        apiKey: "d94a76598e20e7a3e71581221ba9a63c",
-        indexName: "kushal_portfolio",
+        appId: "MUQTV2ZP2D",
+        apiKey: "1ea65ba8e8ef780838e2eb69fe48200d",
+        indexName: "kushalarya",
       },
       prism: {
         theme: lightCodeTheme,
