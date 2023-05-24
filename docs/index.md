@@ -12,7 +12,7 @@ It includes my thoughts, ideas, notes, and knowledge. Think of this as a persona
 
 ## Digital Garden
 
-Digital Garden is a collection of evolving notes, essays, and ideas.
+[Digital Garden](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/) is a collection of evolving notes, essays, and ideas.
 
 These are less focused on publishing highly polished results but more on the process of developing ideas, thoughts, and knowledge over time. Less personal branding and SEO but more personal growth and development instead.
 
