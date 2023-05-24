@@ -13,7 +13,9 @@ Unmanned aerial vehicles (UAVs) are categorized into 4 groups
 3. Single-Rotor
 4. Hybrid vertical take-off & Landing (VTOL)
 
-My interest mainly goes toward Fixed-wings and Multi-rotors. I have built a few fixed-wing trainers and a few FPV drones from scratch, which I usually take for flight tests on weekend mornings. If you don't see me at the flying club that means I'm spending time fixing these aircraft which I crashed the previous weekend.
+My interest mainly goes toward Fixed-wings and Multi-rotors.
+
+I have built a few fixed-wing trainers and a few FPV drones from scratch, which I usually take for flight tests on weekend mornings. If you don't see me at the flying club that means I'm spending time fixing these aircraft which I crashed the previous weekend.
 
 ## My Gear
 
