@@ -1,7 +1,7 @@
 ---
 description: Landing page for Investment
 sidebar_label: Investing
-sidebar_position: 2
+sidebar_position: 5
 ---
 
 # Investment
