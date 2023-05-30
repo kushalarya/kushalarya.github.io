@@ -16,8 +16,9 @@ Hobbies are important for mental health and happiness. Fantastic pastimes.
 
 I currently own Sony ZV-E10. It's a versatile APSC camera for Photography & Videos. The small body of this camera allows me to carry it everywhere.
 
-All my photographs are with Sony's kit 18-50mm lens. I'm planning to upgrade the lens, but first I want to gain confidence in creating great compositions.
+All my photographs are with Sony's kit 16-50mm lens. I'm planning to upgrade the lens, but first I want to gain confidence in creating great compositions.
 
 ## Reads
 
 1. [Composition & Photography: Working with Photography Using Design Concepts](https://www.goodreads.com/book/show/60071328-composition-photography) **[Currently Reading]**
+2. [Photography Masterclass: A Complete Guide to Photography](https://www.udemy.com/share/101WBe3@NNnCKIr8ragHSE5zcMwPqOrr0tgi5WqnA4BoVNBzipEk6rNZrYoG-NU4R47GjJiTjQ==/)

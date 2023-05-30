@@ -13,7 +13,7 @@ Before getting any pet,
 1. Educate yourself about that animal
 2. Consider the commitment
 3. Think about their requirements - necessary equipment and supplies
-4. Calculte monthly cost
+4. Calculate monthly cost
 5. Know the risks
 6. Personality of pet
 7. Note the nearest VET's phone number
@@ -68,14 +68,14 @@ Before getting any pet,
 - Squash
 - Carrots
 - Leafy vegetables
-- Coment Goldfish
+- Coment-tailed Goldfish
 - Earthworms & insects
 
 ## Basking time
 
 - 10 to 12 hours per day
 
-## Notes
+## Note
 
 - Remove uneaten food
 - Clean feces
