@@ -54,3 +54,9 @@ For parts, spares, tools, services
 ## Articles
 
 1. [The stealthy little drones that fly like insects](https://www.bbc.com/news/business-51840027.amp)
+
+### Look for
+
+1. How to convert 2D blueprints to 3D.
+2. Is there automated software available to test if custom created 3D plane will work?
+3. Zaunkonig Biplane

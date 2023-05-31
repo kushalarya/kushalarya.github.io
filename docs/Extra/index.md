@@ -1,7 +1,7 @@
 ---
 description: Landing page for Extra
 sidebar_label: Extra
-sidebar_position: 8
+sidebar_position: 9
 ---
 
 # Extra
@@ -27,6 +27,7 @@ Random topics here ( to be sorted )
 - Integrate gpt3 with Alexa?
 - Hugging face models - Free AI models
 - X Tesaract(Node.js), OpenCV, OpenGL, Tensorflow for handwriting OCR
+- Setup Plans on AWS API Gateway
 
 - Travel
 
@@ -35,3 +36,4 @@ Random topics here ( to be sorted )
 
 - Movies
   - Grave of the Fireflies (-M)
+  - Castlevania ( -M)
