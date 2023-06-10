@@ -6,4 +6,5 @@ sidebar_position: 7
 
 # Pets
 
-1. Guide to pet Red Eared Slider Turtle
+1. [Quick guide - Red-Eared Slider Turtle](/notebook/Pets/RedEarSliderTurtle)
+2. [Quick guide - Cats](/notebook/Pets/Cat)

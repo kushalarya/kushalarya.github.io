@@ -18,7 +18,7 @@ Before getting any pet,
 6. Personality of pet
 7. Note the nearest VET's phone number
 
-## About RES Turtles
+## About Red Ear Slider Turtles
 
 - Semi-aquatic
 - Most popular turtle as a pet in India
@@ -53,7 +53,7 @@ Before getting any pet,
 
 - Get at least 450 L tank
 - Water depth - turtle should be able to dive into the water
-- One turtle, one tank. Territorial in nature
+- One turtle, one tank. They are territorial
 - Basking area - 15% of the tank area
 - Use a UVB lamp and smart plug to simulate sunlight
 - Get a lid to cover the tank - they tend to escape
@@ -96,8 +96,10 @@ Before getting any pet,
 ## Common health issues
 
 - Parasites of the gut
+
   - Signs - Diarrhoea, poor appetite, fatigue
   - Causes - contaminated food or water intake
+
 - Infection of the Respiratory system
 
   - Signs - running nose, sneezing, open mouth breathing

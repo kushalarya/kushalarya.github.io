@@ -75,63 +75,67 @@ const config = {
           trackingID: "G-HW9NWCXPZD",
           anonymizeIP: false,
         },
+        sitemap: {
+          changefreq: "weekly",
+          priority: 0.5,
+          ignorePatterns: ["/tags/**"],
+          filename: "sitemap.xml",
+        },
       },
     ],
   ],
 
-  themeConfig:
-    /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-    ({
-      image: "img/logo-small.png",
-      metadata: [
-        {
-          name: "description",
-          content:
-            "I am software developer interested in technology and gadgets. Cloud-native and open-source enthusiast.",
-        },
-        {
-          name: "keywords",
-          content:
-            "fullstack, frontend, backend, developer, engineer, go, golang, javascript, graphql, grpc, rest, kubernetes, devops, cloud, cloud-native, open-source, java, springboot, spring, angular, kushal, kushalarya, arya ",
-        },
-        {
-          name: "twitter:card",
-          content: "summary",
-        },
+  themeConfig: {
+    image: "img/logo.png",
+    metadata: [
+      {
+        name: "description",
+        content:
+          "I am software developer interested in technology and gadgets. Cloud-native and open-source enthusiast.",
+      },
+      {
+        name: "keywords",
+        content:
+          "fullstack, frontend, backend, developer, engineer, go, golang, javascript, graphql, grpc, rest, kubernetes, devops, cloud, cloud-native, open-source, java, springboot, spring, angular, kushal, kushalarya, arya ",
+      },
+      {
+        name: "twitter:card",
+        content: "summary",
+      },
+    ],
+    colorMode: {
+      defaultMode: "light",
+      disableSwitch: false,
+      respectPrefersColorScheme: false,
+    },
+    navbar: {
+      hideOnScroll: false,
+      title: "KA",
+      logo: {
+        alt: "KA logo",
+        src: "img/logo.png",
+        srcDark: "img/logo.png",
+      },
+      items: [
+        { to: "/blog", label: "Blog", position: "left" },
+        { to: "/projects", label: "Projects", position: "left" },
+        { to: "/notebook", label: "Notebook", position: "left" },
       ],
-      colorMode: {
-        defaultMode: "light",
-        disableSwitch: false,
-        respectPrefersColorScheme: false,
-      },
-      navbar: {
-        hideOnScroll: false,
-        title: "KA",
-        logo: {
-          alt: "KA logo",
-          src: "img/logo.png",
-          srcDark: "img/logo.png",
-        },
-        items: [
-          { to: "/blog", label: "Blog", position: "left" },
-          { to: "/projects", label: "Projects", position: "left" },
-          { to: "/notebook", label: "Notebook", position: "left" },
-        ],
-      },
-      footer: {
-        style: "dark",
-        copyright: `Copyright © ${new Date().getFullYear()} Kushal Arya.`,
-      },
-      algolia: {
-        appId: "MUQTV2ZP2D",
-        apiKey: "1ea65ba8e8ef780838e2eb69fe48200d",
-        indexName: "kushalarya",
-      },
-      prism: {
-        theme: lightCodeTheme,
-        darkTheme: darkCodeTheme,
-      },
-    }),
+    },
+    footer: {
+      style: "dark",
+      copyright: `Copyright © ${new Date().getFullYear()} Kushal Arya.`,
+    },
+    algolia: {
+      appId: "MUQTV2ZP2D",
+      apiKey: "1ea65ba8e8ef780838e2eb69fe48200d",
+      indexName: "kushalarya",
+    },
+    prism: {
+      theme: lightCodeTheme,
+      darkTheme: darkCodeTheme,
+    },
+  },
 };
 
 module.exports = config;
