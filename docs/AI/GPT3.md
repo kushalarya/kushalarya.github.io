@@ -30,3 +30,35 @@ Microsoft became significant investor and prefered partner to license its techol
 Elon Musk resigned from board as potential conflict of intrest with work at Tesla 
 
 ## OpenAI charter
+Machine Ethics - Bias in AI, Weaponization, Morality, Robot autonomy, Liability
+Main 4 Principles, 
+    - Benefits for everyone 
+    - Safe research and development 
+    - Leaders in AI & AGI 
+    - Broad collaboration
+
+## Intorducing GPT3
+GPT utilizes the approach that is intersection of AI, CS, Human Language aka NLP
+GPT2 had 1.5 billion parameters
+GPT3 has 175 billion parameters
+Model Parameter - A variable whose value can be estimited from data ( traninig data )
+GPT3 hasn't passed Turing Test
+
+## Potential Automations
+Explaining legal documents 
+Transalation services
+Medical answers
+Solving math problems
+Content development
+Website creation
+
+## For more on AI
+Tensorflow courses
+Python courses
+Everything as a Service (XaaS) is the Future of Business
+Foundations of Fourth Industrial Revolution
+
+## Examples of GPT3
+copy.ai
+othersideai.com
+play.aidungeon.io
