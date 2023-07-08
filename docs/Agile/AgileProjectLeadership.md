@@ -48,12 +48,42 @@ examples - millitary organizations, police, etc
 
 - Defining goals and taking small steps repeatedly to grow in a specific direction,
 
-D A R L A
+Follow, D A R L A
 D - Define goal - Write your goal & put it somewhere you can see it everyday
 A - Asses your position - Seek feedback from others.
 R - Reflect - Use your notes to guide you to your goal. about what helped me moving toward my goal & which one didn't work
 L - Learn - Learm from others before you.
 A - Acknowledge Success - Reinforce your wins with positivity.
+
+### Team tranformation to agile 
+- understanding where team is in thier currnet practice.
+- the key is to assess all your teams unsing same criteria and measurement scale.
+- Assess overall product health, ask these questions - 
+    - Is the PO available when team needs them ?
+    - Is there a clear vision & roadmap ?
+    - Is there daily collaboration between PO & team ?
+
+- Assess technical health, ask these questions - 
+    - How much technical debt ?
+    - How is the team reducing technical debt ?
+    - Are the tests automated ?
+    - Is the team using continuous integrations ?
+
+- Measure Metrics and Outcomes 
+    - Are they completing design-build-test cycles each sprint ?
+    - Are they frequently releasing working software ?
+    - Art they meeting release goals ?
+
+- How many defects in production ?
+    - How many defects in production ?
+    - Are defects fixed and test updated in the spring ?
+
+- Examint teamwork & culture 
+    - Are the teams members self-organized ?
+    - do they hold regular retrospectives ?
+    - do they embody angile values ? ( commitment, courage, focus, openness, respect )
+
+
 
 
 
