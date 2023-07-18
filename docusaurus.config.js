@@ -124,7 +124,7 @@ const config = {
     },
     footer: {
       style: "dark",
-      copyright: `Copyright © ${new Date().getFullYear()} Kushal Arya.`,
+      copyright: `© ${new Date().getFullYear()} Kushal Arya. Some rights reserved.`,
     },
     algolia: {
       appId: "MUQTV2ZP2D",
