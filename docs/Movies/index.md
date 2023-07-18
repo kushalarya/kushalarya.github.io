@@ -7,4 +7,6 @@
 
 ## Recently watched movies
 
-- Deep Water
+- Deep Water, Adrian Lyne [2022]
+- Ship of Theseus, Anand Gandhi [2013]
+- Her, Spike Jonze [2013]

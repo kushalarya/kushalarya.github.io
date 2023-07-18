@@ -119,7 +119,7 @@ const config = {
       items: [
         { to: "/blog", label: "Blog", position: "left" },
         { to: "/projects", label: "Projects", position: "left" },
-        { to: "/notebook", label: "Notebook", position: "left" },
+        { to: "/notebook", label: "📓 Notebook", position: "left" },
       ],
     },
     footer: {
