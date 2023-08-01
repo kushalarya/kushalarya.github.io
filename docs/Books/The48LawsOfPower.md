@@ -1,62 +1,6 @@
----
-author: Robert Greene
-contributor: getAbstract
-identifier: "https://www.getAbstract.com/documents/the_48_laws_of_power"
-language: en
-title: The 48 Laws of Power
----
 
-![](vertopal_7dc540d6454d47168a1900cd92d27792/cover.jpg)
+# The 48 Laws of Power
 
-[]{#content.html}
-
-::: {style="text-align: center;"}
-![getAbstract](vertopal_7dc540d6454d47168a1900cd92d27792/logo.png)
-
-# The 48 Laws of Power {#content.html#cover}
-
-![Cover](vertopal_7dc540d6454d47168a1900cd92d27792/cover_small.jpg)
-
-::: {style="color: #555555;"}
-Robert Greene • Profile Books © 2000 • 463 pages
-:::
-:::
-
-::: {#content.html#channels style="margin: 15px 0; padding: 10px 0; border-top: 1px solid #91A1A9; border-bottom: 1px solid #91A1A9;"}
-<div>
-
-**Leadership**[ / ]{style="padding: 0 2px"}Power
-
-</div>
-
-<div>
-
-**Career**[ / ]{style="padding: 0 2px"}Career Strategies
-
-</div>
-:::
-
-<div>
-
-## Rating: 10
-
-</div>
-
-::: {style="page-break-inside: avoid;"}
-<div>
-
-Applicable
-
-</div>
-
-<div>
-
-Innovative
-
-</div>
-:::
-
-::: {#content.html#takeaways}
 ## Take-Aways
 
 -   Always look good, always be stylish.
@@ -70,9 +14,8 @@ Innovative
 -   Keep yourself at some distance to inspire respect.
 -   Play dumb, because if people think they are smarter than you they
     will make blunders.
-:::
 
-::: {#content.html#recommendation}
+
 ## Recommendation
 
 This book is amoral, hauntingly true and indispensable. It should be on
@@ -92,7 +35,7 @@ awe-inspiring and in control - though not always obviously so. Doesn't
 that sound tempting?
 :::
 
-::: {#content.html#abstractText}
+}
 ## Summary
 
 ### The Ways of Power
