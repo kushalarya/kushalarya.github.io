@@ -1,7 +1,7 @@
 import React from "react";
 import Layout from "@theme/Layout";
 
-import Gallery from "react-photo-gallery";
+import PhotoAlbum from "react-photo-album";
 
 const photos = [
   {
@@ -54,16 +54,14 @@ const photos = [
 const title = "My Photo Album";
 const description = "All photos with Sony ZV-E10";
 
-export default function Photos(): JSX.Element {
+export default function Photos() {
   return (
     <Layout title={title} description={description}>
       <main className="container container--fluid margin-vert--lg">
         <h1>{title}</h1>
         <p>{description}</p>
 
-        <div className="row">
-          <Gallery photos={photos} />
-        </div>
+        <PhotoAlbum layout="rows" photos={photos} />
       </main>
     </Layout>
   );

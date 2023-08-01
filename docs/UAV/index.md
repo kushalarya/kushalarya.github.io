@@ -1,7 +1,7 @@
 ---
 description: Landing page for UAV
 sidebar_label: UAV
-sidebar_position: 4
+sidebar_position: 8
 ---
 
 # UAV

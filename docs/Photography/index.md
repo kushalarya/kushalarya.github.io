@@ -1,7 +1,7 @@
 ---
 description: Landing page for Photography
 sidebar_label: Photography
-sidebar_position: 2
+sidebar_position: 6
 ---
 
 # Photography

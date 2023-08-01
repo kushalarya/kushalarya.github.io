@@ -1,7 +1,7 @@
 ---
 description: Landing page for Competitive Programming
 sidebar_label: Competitive Programming
-sidebar_position: 8
+sidebar_position: 4
 ---
 
 # Competitive Programming

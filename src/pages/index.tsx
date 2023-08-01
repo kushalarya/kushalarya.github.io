@@ -10,6 +10,7 @@ import { Hero } from "../components/homepage/Hero";
 
 import avatar from "./assets/index/avatar.jpg";
 import AboutMeDesc from "./assets/index/_about-me.md";
+import { Globe } from "../components/homepage/Globe";
 
 const socialLinks: SocialLinkData[] = [
   {
@@ -53,6 +54,7 @@ export default function Home(): JSX.Element {
         <div className="container padding-vert">
           <AboutMe avatar={avatar} descriptionComponent={<AboutMeDesc />} />
           <SocialLinks data={socialLinks} />
+          {/* <Globe /> */}
         </div>
       </main>
     </Layout>
