@@ -18,10 +18,12 @@ These are less focused on publishing highly polished results but more on the pro
 
 These are curated and evolve, sometimes growing wildly and sometimes getting pruned.
 
-## Improve the wiki
+:::caution
 
 If you come across any errors, particularly if there is something I've stated that is incorrect, I kindly request you to fork this repository and submit a pull request with the necessary corrections.
 Alternatively, you can open an issue to express your thoughts on what you believe is incorrect, ask questions, or provide suggestions.
+
+:::
 
 I welcome any constructive feedback and suggestions for enhancing the content.
 
