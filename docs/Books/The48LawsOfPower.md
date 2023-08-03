@@ -16,26 +16,6 @@
     will make blunders.
 
 
-## Recommendation
-
-This book is amoral, hauntingly true and indispensable. It should be on
-the bookshelf of anyone who aspires to any level of success in any
-organization or profession. It should not gather dust but should be read
-regularly, according to a plan - one law a day, for example, absorbed
-slowly and contemplated deeply. Author Robert Greene draws on a rich
-variety of sources including books so threatening that they were banned
-by the ancient Chinese. He cites the memoirs of Machiavelli, various con
-men and many others who swept aside what ought to be in order to focus
-on what is. It might seem that anyone who follows all of these laws in
-their rich, narrative detail will turn out to be a very unpleasant
-person. That's probably not true. *getAbstract* suspects, in contrast,
-that the person who masters the laws of power will be extremely
-pleasant, with winning ways and a knack for likeability, yet
-awe-inspiring and in control - though not always obviously so. Doesn't
-that sound tempting?
-:::
-
-}
 ## Summary
 
 ### The Ways of Power
@@ -74,7 +54,7 @@ Duplicity is another matter. These laws may seem scandalously frank, but
 you can apply them without violating any of the strictures of public
 morality.
 
-In fact, that\'s the way to get the best results.
+In fact, that's the way to get the best results.
 
 **The Laws**
 
@@ -86,11 +66,11 @@ In fact, that\'s the way to get the best results.
 2.  **Do not trust allies, but understand the utility of enemies** --
     Friends will betray you out of envy. They have a regrettable
     tendency to expect too much of you because of your friendship and to
-    become demanding nuisances. Don\'t hire or appoint friends. Hire
+    become demanding nuisances. Don't hire or appoint friends. Hire
     enemies. The enemy whom you forgive will always feel that he has to
     prove his loyalty. If you have no enemies, get to work making a few
     good ones.
-3.  **Don\'t tip your hand** -- If people don\'t know what goal you are
+3.  **Don't tip your hand** -- If people don't know what goal you are
     seeking, they cannot defend against you. Keep your intentions
     secret. Move behind a smokescreen.
 4.  **Spare your words** -- The powerful seldom speak. The more you
@@ -101,17 +81,17 @@ In fact, that\'s the way to get the best results.
     attack, but it is useless once damaged. Never tolerate or ignore any
     threat of a blemish to your reputation.
 6.  **Make yourself the center of attention** -- People judge on the
-    basis of what they see. They do not know what they don\'t see.
+    basis of what they see. They do not know what they don't see.
     Forget toiling in obscurity. The only reward for that will be more
     toil and more obscurity. Make a spectacle of yourself.
-7.  **Take credit for others\' work** -- Admittedly, it\'s not nice to
-    take all the credit for other people\'s work, but it is very
+7.  **Take credit for others' work** -- Admittedly, it's not nice to
+    take all the credit for other people's work, but it is very
     effective and you would be a fool to do otherwise. You will seem
     like a miracle of speed and competence, and no one will remember
-    those who made your success possible, so they can\'t threaten you.
+    those who made your success possible, so they can't threaten you.
 8.  **Lure people** -- When you make other people move first, you are in
     control. Power means being in control. Never act first; never go to
-    the other person\'s turf. Make adversaries come to you. Bait them,
+    the other person's turf. Make adversaries come to you. Bait them,
     entice them, seduce them, but draw them to you.
 9.  **Win by deeds not by debate** --- Instead of arguing (which creates
     losers who bear grudges), win by acting. Instead, demonstrate that
@@ -128,7 +108,7 @@ In fact, that\'s the way to get the best results.
     they are vulnerable and effectively in your power. Seem generous and
     honest. Give people gifts. Remember the story of the Trojan Horse:
     it worked admirably well.
-13. **When you ask for help, let people know what\'s in it for them** --
+13. **When you ask for help, let people know what's in it for them** --
     Do not expect altruism. When people are altruistic (rare), you are
     in their debt. Usually, people will not want to help you for your
     sake. To get their support, appeal to their self-interest. If
@@ -161,7 +141,7 @@ In fact, that\'s the way to get the best results.
 20. **Make no promises** -- You are your only commitment. Avoid
     inseparable allies. As Washington advised, avoid entangling
     alliances.
-21. **Play dumb** -- There\'s no point looking smarter than people. It
+21. **Play dumb** -- There's no point looking smarter than people. It
     puts them on their guard. Disarm your victims by making them feel
     smartest. They like it, and it makes them shed all suspicion and
     fear, so you can manipulate them as you please.
@@ -176,14 +156,14 @@ In fact, that\'s the way to get the best results.
     image, flattery, flirtation and conversation. The perfect courtier
     looks good and manages to assemble power without seeming to grasp.
     To control even the king, be the perfect courtier.
-25. **Re-invent yourself** -- Don\'t be what other people try to compel
+25. **Re-invent yourself** -- Don't be what other people try to compel
     you to be. Carve out your own attention-getting identity. Be
     interesting, never dull. Be dramatic; have signature gestures,
     deeds, even costumes, so people always know who you are.
-26. **Don\'t get your hands dirty** -- Use someone else to do any dirty
+26. **Don't get your hands dirty** -- Use someone else to do any dirty
     work. Then, find someone else to take the blame. Scapegoats and
-    cats\'-paws have their uses.
-27. **Exploit people\'s needs to build your cult** -- People want to
+    cats'-paws have their uses.
+27. **Exploit people's needs to build your cult** -- People want to
     believe. It hardly matters what or whom they believe. Offer them
     something to trust, someone to follow. Speak inspiringly and imply
     great promises, but spare the specifics so no one can charge you
@@ -220,7 +200,7 @@ In fact, that\'s the way to get the best results.
     is everything. Part of appearing confident is the virtue of
     patience. Never seem hurried, harried or at loose ends. Behave as if
     everything is going your way and will work out in your favor.
-36. **Despise what is beyond your reach** -- Like Aesop\'s fox and the
+36. **Despise what is beyond your reach** -- Like Aesop's fox and the
     sour grapes, if you cannot reach a coveted prize, despise it. If you
     acknowledge a problem or a problem person, you empower the problem
     or the troublemaker. If you seem to ignore and disdain what others
@@ -234,16 +214,16 @@ In fact, that\'s the way to get the best results.
     practice, people will distrust and despise you. Show your
     inventiveness and originality only to those with whom you are
     intimate.
-39. **Make a splash and you\'ll fill your net with fish** -- Never get
+39. **Make a splash and you'll fill your net with fish** -- Never get
     angry. Never give vent to strong emotions. Make your enemies do
     that. When they strike in anger, they will strike inaccurately,
     opening themselves to your patient, well-planned counter attack.
-40. **Don\'t look for a free lunch; disdain it** -- Anything that seems
+40. **Don't look for a free lunch; disdain it** -- Anything that seems
     free is not. Something worth having is worth the price. Pay your own
     way; carry your own weight. Owe nothing. Do not rely on the
     generosity of others; make others rely on yours.
-41. **Don\'t try to fill the shoes of the great** -- If the shoes don\'t
-    fit you, you\'ll stumble and look like a presumptuous fool. If the
+41. **Don't try to fill the shoes of the great** -- If the shoes don't
+    fit you, you'll stumble and look like a presumptuous fool. If the
     one who preceded you in a post was great, you will work in a shadow.
     Strike out on your own; show movement in a new direction.
 42. **Strike the shepherd to scatter the sheep** -- If the group is
@@ -266,23 +246,9 @@ In fact, that\'s the way to get the best results.
     destroy you out of envy. Claim some fault so slight it is almost a
     virtue, but acknowledge it as a fault.
 47. **When you reach your goal, stop** -- Many have lost the prize by
-    being too greedy or arrogant. Don\'t overreach. When you achieve
+    being too greedy or arrogant. Don't overreach. When you achieve
     your victory, you have reached the end of your plan. Stop. Do not go
     farther until you have made a new plan.
 48. **Be protean** -- If you have no shape, people cannot find your
     center and cannot attack you. Be fluid. Adjust to every
     circumstance. Like water, adapt to every vessel.
-:::
-
-::: {#content.html#aboutAuthor}
-## About the Author
-
-**Robert Greene** has a degree in classical studies and has been an
-editor at *Esquire* and other magazines.
-:::
-
-::: {style="text-align: center;"}
-## Did you like this summary? {style="margin-top: 2em;"}
-
-Buy book or audiobook: <http://getab.li/8526>
-:::
