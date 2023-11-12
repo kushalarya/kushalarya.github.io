@@ -48,6 +48,10 @@ make all
 ```
 
 2-3 hours for building image
+Build stuck, 
+restarted the build, 
+it's been 12+ hrs, still building. 
+
 
 
 ### Open Questions
