@@ -22,8 +22,8 @@ Start learning from [Varsity](https://zerodha.com/varsity/), in-depth collection
 
 ## Types of investors
 
-1. RII: Retail Individual Investors ( <= ₹ 2,00,000 )
-2. HNI: High Networth Investors ( > ₹ 2,00,000 )
+1. RII: Retail Individual Investors (less than ₹ 2,00,000)
+2. HNI: High Networth Investors (more than ₹ 2,00,000)
 3. DII: Domestic Institutional Investor
 4. FPI: Foreign Portfolio Investors
 

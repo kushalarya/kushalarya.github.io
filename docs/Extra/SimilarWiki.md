@@ -344,7 +344,7 @@ sidebar_label: Similar Wiki
 - [Digital Gardens list](https://docs.google.com/spreadsheets/d/1KtEjnuZEHxUmoiA37_MMM4OFyQcbwVUaLBFa12P8cnU/edit#gid=0)
 - [Kb](https://github.com/gnebbia/kb) - Text-oriented minimalist command line knowledge base manager. ([HN](https://news.ycombinator.com/item?id=24506280))
 - [List of Zettelkasten software (2020)](https://www.reddit.com/r/Zettelkasten/comments/flygc4/lets_build_a_list_of_zettelkasten_software/)
-- [What {note taking|team wiki|personal wiki|external brain} tool do you use? (2020)](https://lobste.rs/s/e5lx5p/what_note_taking_team_wiki_personal_wiki)
+- [What note taking|team wiki|personal wiki|external brain} tool do you use? (2020)](https://lobste.rs/s/e5lx5p/what_note_taking_team_wiki_personal_wiki)
 - [TiddlyWiki](https://tiddlywiki.com/) - Non-linear personal web notebook. ([Code](https://github.com/Jermolene/TiddlyDesktop))
 - [Notes with TiddlyWiki](http://beza1e1.tuxen.de/tiddlywiki_notes.html)
 - [Rekowl](https://rekowl.com/) - You personal knowledge library.
