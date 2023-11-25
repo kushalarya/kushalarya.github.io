@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkkushalarya_com=self.webpackChunkkushalarya_com||[]).push([[9718],{631:a=>{a.exports=JSON.parse('{"label":"world","permalink":"/blog/tags/world","allTagsPath":"/blog/tags","count":1}')}}]);
