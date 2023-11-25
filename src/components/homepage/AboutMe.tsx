@@ -13,7 +13,7 @@ export const AboutMe: FunctionComponent<AboutMeProps> = ({
   descriptionComponent,
 }) => {
   return (
-    <div className="margin-top--lg">
+    <div className="margin-top--lg margin-bottom--lg">
       <h2>About me</h2>
       <div className="row">
         <div className="col col--6">{descriptionComponent}</div>

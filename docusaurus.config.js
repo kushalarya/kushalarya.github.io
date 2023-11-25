@@ -1,15 +1,6 @@
-// @ts-check
-// Note: type annotations allow type checking and IDEs autocompletion
+const lightCodeTheme = require("prism-react-renderer").themes.github;
+const darkCodeTheme = require("prism-react-renderer").themes.dracula;
 
-// eslint-disable-next-line @typescript-eslint/no-var-requires
-// const lightCodeTheme = require("prism-react-renderer/themes/github");
-// eslint-disable-next-line @typescript-eslint/no-var-requires
-// const darkCodeTheme = require("prism-react-renderer/themes/dracula");
-
-const lightCodeTheme = require('prism-react-renderer').themes.github;
-const darkCodeTheme = require('prism-react-renderer').themes.dracula;
-
-/** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Kushal Arya, Full-stack Cloud Developer",
   tagline:
@@ -23,20 +14,6 @@ const config = {
   // GitHub pages deployment config
   organizationName: "kushalarya",
   projectName: "kushalarya.github.io",
-
-  // customFields: {
-  //   newsletter: {
-  //     action:
-  //       "https://dev.us14.list-manage.com/subscribe/post?u=4ed0fd1909674fddee53ac3e7&amp;id=dfdcae99f5&amp;f_id=004887e0f0",
-  //     method: "post",
-  //     emailFieldName: "EMAIL",
-  //     firstNameFieldName: "FNAME",
-  //     submitButtonName: "subscribe",
-  //     tosURL: "https://mailchimp.com/legal/terms/",
-  //     privacyPolicyURL: "https://www.intuit.com/privacy/statement/",
-  //     serviceName: "Mailchimp",
-  //   },
-  // },
 
   i18n: {
     defaultLocale: "en",
@@ -127,7 +104,7 @@ const config = {
     },
     footer: {
       style: "dark",
-      copyright: `© ${new Date().getFullYear()} Kushal Arya. Some rights reserved.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Kushal Arya. Built with Docusaurus.`,
     },
     algolia: {
       appId: "MUQTV2ZP2D",
