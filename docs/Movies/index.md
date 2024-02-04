@@ -12,3 +12,9 @@
 - Her, Spike Jonze [2013]
 - Seventeen, Daniel Sánchez Arévalo [2019]
 - The Swimmers, Sally El Hosaini [2022]
+
+## Recently watched series
+
+- Clark, Jonas Åkerlund [2022]
+- Killer Soup, Abhishek Chaubey [2024]
+-
