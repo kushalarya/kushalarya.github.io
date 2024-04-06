@@ -6,6 +6,7 @@ sidebar_label: Similar Wiki
 # Similar Wiki
 
 - [Sunghyun Cho, extracranial: the exosuit for my brain](https://cho.sh/)
+- [Michiel de Boer (Posy)](http://www.michieldb.nl/)
 - [Devine Lu Linvega](https://wiki.xxiivv.com/site/home.html) ([Code](https://github.com/XXIIVV/Oscean)) ([Index](https://wiki.xxiivv.com/site/index.html))
 - [100 Rabbits](https://100r.co/site/home.html) ([Code](https://github.com/hundredrabbits/100r.co))
 - [Gwern](https://www.gwern.net/) - Can also suffix URLs with `.page` to get the source code. ([Code](https://github.com/gjord/gwern.net))
