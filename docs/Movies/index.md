@@ -23,3 +23,12 @@
 - Baby Reindeer, Weronika Tofilska; Josephine Bornebusch [2024]
 - Dark, Baran bo Odar [2017]
 - The Railway Men, Shiv Rawail [2023]
+
+## Recently watched plays
+
+- Jab Shahar Hamara Sota hai, Piyush Mishra; Aashish Rana [2024]
+- Nothing like lear, Rajat Kapoor; Vinay Pathak [2024]
+
+## Recently watched videos
+
+- [What Game Theory Reveals About Life, The Universe, and Everything](https://www.youtube.com/watch?v=mScpHTIi-kM&ab_channel=Veritasium) : Veritasium
