@@ -12,8 +12,14 @@
 - Her, Spike Jonze [2013]
 - Seventeen, Daniel Sánchez Arévalo [2019]
 - The Swimmers, Sally El Hosaini [2022]
+- Laapataa Ladies, Kiran Rao [2023]
+- Hunger, Sittisiri Mongkolsiri [2023]
 
 ## Recently watched series
 
 - Clark, Jonas Åkerlund [2022]
 - Killer Soup, Abhishek Chaubey [2024]
+- Eric, Lucy Forbes [2024]
+- Baby Reindeer, Weronika Tofilska; Josephine Bornebusch [2024]
+- Dark, Baran bo Odar [2017]
+- The Railway Men, Shiv Rawail [2023]
