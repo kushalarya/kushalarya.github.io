@@ -14,6 +14,7 @@
 - The Swimmers, Sally El Hosaini [2022]
 - Laapataa Ladies, Kiran Rao [2023]
 - Hunger, Sittisiri Mongkolsiri [2023]
+- BlackBerry, Matthew Johnson [2023]
 
 ## Recently watched series
 
