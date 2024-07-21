@@ -17,6 +17,8 @@
 - BlackBerry, Matthew Johnson [2023]
 - The Unbearable Weight of Massive Talent [2022]
 - My Girl, Howard Zieff [1991]
+- Maharaj, Siddharth P. Malhotra [2024]
+- Srikanth, Tushar Hiranandani [2024]
 
 ## Recently watched series
 
