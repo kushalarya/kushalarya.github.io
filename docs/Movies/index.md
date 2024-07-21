@@ -15,6 +15,8 @@
 - Laapataa Ladies, Kiran Rao [2023]
 - Hunger, Sittisiri Mongkolsiri [2023]
 - BlackBerry, Matthew Johnson [2023]
+- The Unbearable Weight of Massive Talent [2022]
+- My Girl, Howard Zieff [1991]
 
 ## Recently watched series
 
@@ -24,6 +26,10 @@
 - Baby Reindeer, Weronika Tofilska; Josephine Bornebusch [2024]
 - Dark, Baran bo Odar [2017]
 - The Railway Men, Shiv Rawail [2023]
+- You Don't Know Me, Sarmad Masud [2021]
+- Hacks [2021]
+- Kleo, Viviane Andereggen; Jano Ben Chaabane [2022]
+- Beef, Lee Sung Jin [2023]
 
 ## Recently watched plays
 
