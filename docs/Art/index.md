@@ -1,4 +1,7 @@
 # Art
 
 1. [kelogsloops](https://kelogsloops.com/watercolor)
-2.
+
+## Reads
+
+1. [Creativity Fundamentally Comes From Memorization](https://shwin.co/blog/creativity-fundamentally-comes-from-memorization)
