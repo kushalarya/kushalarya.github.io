@@ -35,5 +35,18 @@ Random topics here ( to be sorted )
   - Chicham Bridge, Himachal Pradesh, Asia's highest bridge from sea level ( 13,244ft )
 
 - Movies
-  - Grave of the Fireflies (-M)
+
+  - Grave of the Fireflies ( -M)
   - Castlevania ( -M)
+
+- Blogs & Articles
+
+  - [The original macintosh](https://www.folklore.org/0-index.html)
+
+- Cannabis
+
+  - [Glass lungs](https://www.thingiverse.com/glasslung/designs)
+  - [Cannabis infused medicines, India](https://vediherbals.com/collections/cannabis-infused-medicine)
+
+- Comics
+  - [Veritable Hokum](https://veritablehokum.com/)
