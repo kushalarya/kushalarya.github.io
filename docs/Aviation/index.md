@@ -1,5 +1,7 @@
 # Aviation
 
+## Aircrafts
+
 1. [P-51D Mustang](/notebook/Aviation/P51Mustang)
 2. de Havilland Canada DHC-1 Chipmunk
 3. Supermarine Spitfire
@@ -11,3 +13,7 @@
 9. Lockheed F-117 Nighthawk
 10. Panavia Tornado
 11. [Lockheed U-2](/notebook/Aviation/LockheedU2)
+
+## Guides
+
+1. Beginner's Guide to Flying & Air Combat(/notebook/Aviation/HowToFlyAndCombat)
