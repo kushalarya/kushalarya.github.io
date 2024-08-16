@@ -42,6 +42,8 @@ Random topics here ( to be sorted )
 - Blogs & Articles
 
   - [The original macintosh](https://www.folklore.org/0-index.html)
+  - [Mathematicians Make a Major Discovery About Prime Numbers](https://www.wired.com/2014/12/mathematicians-make-major-discovery-prime-numbers/)
+  - [High School Internship Into A Game Design Career](https://techcrunch.com/2015/01/17/how-this-teen-turned-her-high-school-internship-into-a-game-design-career/)
 
 - Cannabis
 
@@ -49,4 +51,21 @@ Random topics here ( to be sorted )
   - [Cannabis infused medicines, India](https://vediherbals.com/collections/cannabis-infused-medicine)
 
 - Comics
+
   - [Veritable Hokum](https://veritablehokum.com/)
+  - [CommitStrip](https://www.commitstrip.com/en/2012/11/08/en-as-tu-vraiment-besoin/?)
+
+- Products
+
+  - [Topic tracker](https://syften.com/)
+
+- Art
+
+  - [Joshua Davis](https://joshuadavis.com/)
+  - [Creative Skills](https://tutsplus.com/)
+  - [Hacking for artists](https://hackingforartists.com/)
+
+- Coding
+  - [Sphere online judge](https://www.spoj.com/)
+  - [Python | Code academy](https://www.codecademy.com/catalog/language/python)
+  - [Sockets using TCP/IP](https://people.cs.rutgers.edu/~pxk/rutgers/notes/sockets/)
