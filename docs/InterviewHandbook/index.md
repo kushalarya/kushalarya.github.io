@@ -6,6 +6,8 @@ sidebar_position: 7
 
 # Interview Handbook
 
+1. [My Notes](/notebook/InterviewHandbook/GeneralNotes)
+
 ## Top 10 Websites For Remote Global Work Opportunities
 
 0. Automated job search - [LoopCV](https://www.loopcv.pro/)
@@ -30,7 +32,7 @@ sidebar_position: 7
 
 ## Top 10 Websites To Create Your Resume
 
-1. [Zety] - https://zety.com
+1. [Zety](https://zety.com)
 2. [Enhancv](https://enhancv.com)
 3. [Kickresume](https://www.kickresume.com)
 4. [Resume(dot)io](https://resume.io)

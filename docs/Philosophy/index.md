@@ -15,7 +15,7 @@ Philosophy is the study of fundamental questions about existence, knowledge, val
 
 Philosophy uses critical thinking and rational argument to explore these issues, and it encourages questioning assumptions, analyzing concepts, and forming reasoned conclusions. Throughout history, different philosophers have proposed various schools of thought to answer these profound questions, and debates continue in the modern day.
 
-It’s a broad and abstract discipline but is closely tied to many areas of human knowledge,
+It’s a broad and abstract discipline but is closely tied to many areas of human knowledge.
 
 50 Philosophy ideas you really need to know ( Ben Dupre )
 
