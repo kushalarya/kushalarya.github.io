@@ -32,11 +32,13 @@
 - Hacks [2021]
 - Kleo, Viviane Andereggen; Jano Ben Chaabane [2022]
 - Beef, Lee Sung Jin [2023]
+- The Frog, Mo Wan-il [2024]
 
 ## Recently watched plays
 
 - Jab Shahar Hamara Sota hai, Piyush Mishra; Aashish Rana [2024]
 - Nothing like lear, Rajat Kapoor; Vinay Pathak [2024]
+- Purane Chawal, Sumeet Vyas [2024]
 
 ## Recently watched videos
 
